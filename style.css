@@ -1,0 +1,14 @@
+.thirdtmp{
+    background-color: #452650;
+}
+.card{
+    /* width: 12rem; */
+    min-width: 250px  !important;
+}
+.flex2{
+
+
+    overflow-x: scroll;
+
+}
+
